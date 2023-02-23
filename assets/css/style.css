@@ -163,9 +163,19 @@ h1, h2, h3 {
     padding-left: 60px;
 }
 
+.content-one p, .content-two p {
+    padding-bottom: 10px;
+}
+
 /* early life section */
 
 #early {
     height: 800px;
+}
+
+/*during the war section */
+
+#during {
+    height: 900px;
 }
 

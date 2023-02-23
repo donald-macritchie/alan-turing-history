@@ -172,23 +172,27 @@ h1, h2, h3 {
 
 #early {
     height: 800px;
+    padding: 60px 0;
 }
 
 /*during the war section */
 
 #during {
     height: 900px;
+    padding: 60px 0;
 }
 
 /* after the war section */
 
 #after {
+    height: 700px;
     padding: 60px 0;
 }
 
 /* sexuality and death section */
 
 #death {
+    height: 700px;
     padding: 60px 0;
 }
 
@@ -212,4 +216,36 @@ footer {
     padding: 5%;
     
 }
+
+/* media queries */
+
+@media screen and (max-width: 1200px) {
+
+    #header-content {
+        font-size: 0.9rem;
+    }
+    #cover-text {
+        font-size: 0.9rem;
+        width: 150px;
+        height: 200px;
+
+        padding: 30px 10px;
+    }
+
+    #early, #during, #after, #death {
+        height: max-content;
+    }
+}
+
+@media screen and (max-width:950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
+
 

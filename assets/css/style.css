@@ -62,9 +62,9 @@ h1, h2, h3 {
 #hero-image {
     height: 600px;
     width: 100%;
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
-    background: url(../images/Enigma-machine.png) no-repeat center center;
+    background: url(../images/enigma-machine.png) no-repeat center center;
     background-size: cover;
 }
 
@@ -79,10 +79,9 @@ h1, h2, h3 {
     width: 300px;
     height: 200px;
 
-    padding-top: 30px;
-    padding-left: 10px;
+   padding: 30px 10px;
 
-    background-color: #5c4e42;
+    background-color: rgba(28, 28, 28, 0.8);
 
     bottom: 100px;
     right: 100px;
@@ -93,3 +92,7 @@ h1, h2, h3 {
 #cover-text h3 {
     padding-top: 10px;
 }
+
+/* introduction section */
+
+

@@ -9,6 +9,7 @@
 body {
     font-family: montserrat, sans-serif;
     color: #242424;
+    background-color: #f0ebe1;
 }
 
 
@@ -97,7 +98,7 @@ h1, h2, h3 {
     padding-top: 10px;
 }
 
-/* introduction section */
+/* text left image right */
 
 .content-one {
     height: 600px;
@@ -116,12 +117,12 @@ h1, h2, h3 {
     padding-bottom: 30px;
 }
 
-#intro-text {
+.content-text {
     width: 50%;
     padding: 0 30px 0 60px;
 }
 
-#intro-image {
+.content-img {
     width: 40%;
     padding-right: 60px;
 }
@@ -135,4 +136,29 @@ h1, h2, h3 {
     text-align: center;
     padding-top: 20px;
   }
+
+  
+/* text right image left */
+
+.content-two {
+    height: 600px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+
+    
+    background-color: #f0ebe1;
+    color: #1c1c1c;
+}
+
+.content-two h3 {
+    padding-bottom: 30px;
+}
+
+.content-two .content-img {
+    padding-left: 60px;
+}
 

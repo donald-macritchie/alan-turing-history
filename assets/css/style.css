@@ -8,6 +8,7 @@
 
 body {
     font-family: montserrat, sans-serif;
+    font-size: 20px;
     color: #242424;
     background-color: #f0ebe1;
 }
@@ -74,7 +75,7 @@ h1, h2, h3 {
 }
 
 #cover-text {
-    font-size: 130%;
+    font-size: 110%;
     font-family: montserrat, sans-serif;
     color: #f0ebe1;
     text-transform: uppercase;

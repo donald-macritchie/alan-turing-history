@@ -231,7 +231,46 @@ footer {
     background-size: cover;
 }
 
-.more-one {
+#more {
+    height: 300px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+    background-color: #e5e5e5;
+    color: #1c1c1c;
+}
+
+#books {
+    height: 300px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+    background-color: #1c1c1c;
+    color: #e5e5e5;
+}
+
+#film {
+    height: 300px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+    background-color: #e5e5e5;
+    color: #1c1c1c;
+}
+
+#park {
     height: 600px;
     width: 100%;
 
@@ -243,6 +282,12 @@ footer {
     background-color: #1c1c1c;
     color: #e5e5e5;
 }
+
+#park-text {
+    width: 40%;
+    
+}
+
 
 
 /* media queries */

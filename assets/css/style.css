@@ -255,6 +255,7 @@ footer {
     grid-template-columns: repeat(12, 1fr);
     padding-top: 30px;
 
+
 }
 
 #book-one {
@@ -272,11 +273,27 @@ footer {
 }
 
 #film {
-    height: 600px;
+    height: 500px;
     width: 100%;
+    text-align: center;
+    padding-top: 30px;
 
     background-color: #e5e5e5;
     color: #1c1c1c;
+}
+
+#film-one {
+    grid-column: 2/5;
+    
+}
+
+#film-two {
+    grid-column: 5/9;
+}
+
+#film-three {
+    grid-column: 9/12;
+    
 }
 
 

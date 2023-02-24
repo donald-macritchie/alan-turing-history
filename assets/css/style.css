@@ -234,11 +234,6 @@ footer {
 #more {
     height: 300px;
     width: 100%;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
     
     background-color: #e5e5e5;
     color: #1c1c1c;
@@ -258,28 +253,29 @@ footer {
 #book-grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
+    padding-top: 30px;
 
 }
 
 #book-one {
     grid-column: 2/5;
+    
 }
 
 #book-two {
-    grid-column: 6/9;
+    grid-column: 5/9;
 }
 
 #book-three {
-    grid-column: 10/13;
+    grid-column: 9/12;
+    
 }
 
 #film {
-    height: 300px;
+    height: 600px;
     width: 100%;
 
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+
 
     
     background-color: #e5e5e5;

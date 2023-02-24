@@ -244,9 +244,11 @@ footer {
     color: #1c1c1c;
 }
 
-#books {
+#book {
     height: 300px;
     width: 100%;
+    padding-top: 30px;
+    text-align: center;
     
 
     background-color: #1c1c1c;

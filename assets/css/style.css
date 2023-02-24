@@ -247,14 +247,28 @@ footer {
 #books {
     height: 300px;
     width: 100%;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
     
+
     background-color: #1c1c1c;
     color: #e5e5e5;
+}
+
+#book-grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+
+}
+
+#book-one {
+    grid-column: 2/5;
+}
+
+#book-two {
+    grid-column: 6/9;
+}
+
+#book-three {
+    grid-column: 10/13;
 }
 
 #film {
@@ -270,23 +284,7 @@ footer {
     color: #1c1c1c;
 }
 
-#park {
-    height: 600px;
-    width: 100%;
 
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    
-    background-color: #1c1c1c;
-    color: #e5e5e5;
-}
-
-#park-text {
-    width: 40%;
-    
-}
 
 
 

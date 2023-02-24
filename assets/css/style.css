@@ -23,6 +23,7 @@ h1, h2, h3 {
 }
 
 
+
 #logo {
     float: left;
     font-size: 300%;
@@ -37,6 +38,7 @@ h1, h2, h3 {
 
 #menu, #logo {
     line-height: 75px;
+    z-index: 2;
     
 }
 
@@ -62,9 +64,7 @@ h1, h2, h3 {
 
 /* hero image */
 
-#hero-outer {
-    position: relative;
-}
+
 
 #hero-image {
     height: 600px;
@@ -126,6 +126,7 @@ h1, h2, h3 {
 
 .content-img {
     width: 40%;
+    height: auto;
     padding-right: 60px;
 }
 
@@ -235,6 +236,8 @@ footer {
     #early, #during, #after, #death {
         height: max-content;
     }
+
+
 }
 
 @media screen and (max-width:950px) {
@@ -246,6 +249,29 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #cover-text {
+        left: 0;
+    }
+
+    .content-one, .content-two {
+       display: inline-block;
+       width: 100%;
+       height: fit-content;
+       
+       
+    }
+    .content-text {
+        width: 100%;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .content-img {
+       margin: 0 auto;
+    }
 }
+   
+
+
 
 

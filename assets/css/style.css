@@ -250,7 +250,7 @@ footer {
     color: #e5e5e5;
 }
 
-#book-grid {
+.grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     padding-top: 30px;
@@ -275,12 +275,12 @@ footer {
     height: 600px;
     width: 100%;
 
-
-
-    
     background-color: #e5e5e5;
     color: #1c1c1c;
 }
+
+
+
 
 
 

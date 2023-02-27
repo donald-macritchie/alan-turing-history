@@ -355,7 +355,7 @@ footer {
 /*survey page */
 
 #survey-hero-image {
-    height: 600px;
+    height: 450px;
     width: 100%;
     overflow-x: hidden;
     position: relative;
@@ -364,16 +364,16 @@ footer {
 }
 
 .survey-form {
-    margin: 50px auto;
+    margin: 60px auto;
     color:#e5e5e5;
     background-color:rgba(60, 60, 60, 0.6);
     max-width:600px;
-    left:10%;
+    
     padding:30px;
-
+}
 
 fieldset{
-    border: solid;
+    border: solid rgba(60, 60, 60, 0.6);
 }
 
 

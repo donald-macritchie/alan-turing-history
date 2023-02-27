@@ -316,6 +316,40 @@ footer {
     text-decoration: none;
 }
 
+/*Bletchley Park*/
+
+#park {
+    height: 1200px;
+    width: 100%;
+
+    background-color: #1c1c1c;
+    color: #e5e5e5;
+}
+
+#park h3 {
+    color: #e5e5e5;
+}
+
+#park-info {
+    display: flex;
+}
+
+#park-text {
+    width: 50%;
+    padding: 60px 30px;
+}
+
+#park-img {
+    width: 50%;
+    float: right;
+}
+
+#map {
+    height: 400px;
+    width: 50%;
+    margin: 0 auto;
+}
+
 
 
 

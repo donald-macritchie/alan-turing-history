@@ -51,64 +51,72 @@
         <h3>Take Our Short Survey!</h3>
 
         <form action="https://formdump.codeinstitute.net" method="post">
-            
-            <p>Did you find the information on this site useful?</p>
+
+            <fieldset>
+
+                <legend>Did you find the information on this site useful?</legend>
+
+                <div>
+                    <input type="checkbox" id="useful-yes" name="yes" checked>
+                    <label for="useful-yes">Yes</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="no" id="useful-no">
+                    <label for="useful-no">No</label>
+                </div>
+
+            </fieldset>
+
+            <fieldset>
+
+                <legend>What did you use this information for?</legend>
+
+                <div>
+                    <input type="checkbox" name="school" id="school">
+                    <label for="school">School Project?</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="university" id="university">
+                    <label for="university">University Project?</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="work" id="work">
+                    <label for="work">Work Project?</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="general" id="general">
+                    <label for="general">General Interest?</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="other" id="other">
+                    <label for="other">Other</label>
+                </div>
+
+            </fieldset>
+
+            <fieldset>
+
+                <legend>Give us your feedback</legend>
+    
+                <div>
+
+                    <label for="feedback">Tell us how we can improve your experience with us?</label>
+                    <br>
+                    <textarea name="feedback" id="feedback" cols="80" rows="10" placeholder="Your Feedback"></textarea>
+        
+                </div>
+    
+            </fieldset>
 
             <div>
-                <input type="checkbox" id="useful-yes" name="yes" checked>
-                <label for="useful-yes">Yes</label>
+                <button type="submit">
+                    <strong>Send Feedback!</strong>
+                </button>
+                <input type="reset" value="Reset Form">
             </div>
-            <div>
-                <input type="checkbox" name="no" id="useful-no">
-                <label for="useful-no">No</label>
-            </div>
-            <div>
-                <input type="submit" value="Submit" id="submit">
-            </div>
+
         </form>
 
-        <form action="https://formdump.codeinstitute.net" method="post">
-
-            <p>What did you use this information for?</p>
-
-            <div>
-                <input type="checkbox" name="school" id="school">
-                <label for="school">School Project?</label>
-            </div>
-            <div>
-                <input type="checkbox" name="university" id="university">
-                <label for="university">University Project?</label>
-            </div>
-            <div>
-                <input type="checkbox" name="work" id="work">
-                <label for="work">Work Project?</label>
-            </div>
-            <div>
-                <input type="checkbox" name="general" id="general">
-                <label for="general">General Interest?</label>
-            </div>
-            <div>
-                <input type="checkbox" name="other" id="other">
-                <label for="other">Other</label>
-            </div>
-
-            <div>
-                <input type="submit"  value="Submit">
-            </div>
-        </form>
-
-        <div>
-            <label for="feedback">Tell us how we can improve your experience with us?</label>
-            <br>
-            <textarea name="feedback" id="feedback" cols="80" rows="10" placeholder="Your Feedback"></textarea>
-
-            <div>
-                <input type="submit" value="Submit">
-            </div>
-        </div>
-        
-
-        
      </section>
 
      <!---newsletter section-->
@@ -126,7 +134,11 @@
 
         </form>
         <div>
-            <input type="submit" value="Get Newsletter!">
+            <button type="submit">
+                <strong>Get Newsletter!</strong>
+            </button>
+            <input type="reset" value="Reset Form">
+        </div>
         </div>
      </section>
 

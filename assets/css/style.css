@@ -354,6 +354,16 @@ footer {
 
 /*survey page */
 
+#survey-hero-image {
+    height: 600px;
+    width: 100%;
+    overflow-x: hidden;
+    position: relative;
+    background: url(../images/alan-and-bombe-black.png) no-repeat center center;
+    background-size: cover;
+}
+
+
 fieldset{
     border: solid;
 }

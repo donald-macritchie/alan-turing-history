@@ -74,6 +74,7 @@ h1, h2, h3, a {
     position: relative;
     background: url(../images/alan-and-bombe-black.png) no-repeat center center;
     background-size: cover;
+    
 }
 
 #cover-text {
@@ -401,6 +402,11 @@ legend {
     margin: 20px 5%; 
     font-size: 16px;
     font-family: montserrat, sans-serif;
+}
+
+.answer input {
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 .button {

@@ -337,7 +337,7 @@ footer {
     width: 100%;
     overflow-x: hidden;
     position: relative;
-    background: url(../images/bletchley-park_600x257.jpg) no-repeat center center;
+    background: url(../images/bletchley-black.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -348,24 +348,48 @@ footer {
 
 #park-info {
     display: flex;
+    justify-content: center;
 }
 
 #park-text {
-    width: 50%;
+    width: 40%;
+    margin: 40px 60px;
     padding: 60px 30px;
+    color: #e5e5e5;
+    background-color:rgba(60, 60, 60, 0.85);
+    border: 2px solid #e5e5e5;
+    
+    
 }
 
-#park-img {
-    width: 50%;
-    float: right;
+#park-text p{
+    padding-top: 10px;
 }
+
+#park-link {
+    text-align: center;
+    padding: 30px 0;
+}
+
+#park-link a{
+    background-color:  #e5e5e5;
+    color: #1c1c1c;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#park-link a:hover {
+    background-color: #1c1c1c;
+    color: #e5e5e5;
+
+}
+
 
 #map {
-    height: 400px;
     width: 50%;
-    margin: 0 auto;
-}
-
+    margin-top: 100px;
+    margin-right: 60px;
+}    
 
 
 /*survey page */

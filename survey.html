@@ -37,104 +37,99 @@
             </ul>
         </nav>
     </header>
+
+    <!---Survey section-->
+
+    <div id="survey-hero-image">
+        <section class="survey-form">
+            <h3>Take Our Short Survey!</h3>
     
-        <div id="survey-hero-image"></div>
+            <form action="https://formdump.codeinstitute.net" method="post">
     
-
-     <!---survey section-->
-
-     <section class="survey-form">
-        <h3>Take Our Short Survey!</h3>
-
-        <form action="https://formdump.codeinstitute.net" method="post">
-
-            <fieldset class="answer">
-
-                <legend>Did you find the information on this site useful?</legend>
-
-                <input type="radio" name="useful" id="useful-yes" value="useful" checked>
-                <label for="useful-yes">Yes</label>
-
-                <input type="radio" name="useful" id="useful-no" value="useful">
-                <label for="useful-no">No</label>
-
-            </fieldset>
-
-            <fieldset class="answer">
-
-                <legend>What did you use this information for?</legend>
-
-                <div>
-                    <input type="checkbox" name="school" id="school">
-                    <label for="school">School Project?</label>
-                </div>
-                <div>
-                    <input type="checkbox" name="university" id="university">
-                    <label for="university">University Project?</label>
-                </div>
-                <div>
-                    <input type="checkbox" name="work" id="work">
-                    <label for="work">Work Project?</label>
-                </div>
-                <div>
-                    <input type="checkbox" name="general" id="general">
-                    <label for="general">General Interest?</label>
-                </div>
-                <div>
-                    <input type="checkbox" name="other" id="other">
-                    <label for="other">Other</label>
-                </div>
-
-            </fieldset>
-
-            <fieldset id="feedback">
-
-                <legend>Give us your feedback</legend>
+                <fieldset class="answer">
     
-                <div>
-
-                    <label for="feedback">Tell us how we can improve your experience with us?</label>
-                    <br>
-                    <textarea name="feedback" id="feedback" cols="70" rows="10" placeholder="Your Feedback"></textarea>
+                    <legend>Did you find the information on this site useful?</legend>
+    
+                    <input type="radio" name="useful" id="useful-yes" value="useful" checked>
+                    <label for="useful-yes">Yes</label>
+    
+                    <input type="radio" name="useful" id="useful-no" value="useful">
+                    <label for="useful-no">No</label>
+    
+                </fieldset>
+    
+                <fieldset class="answer">
+    
+                    <legend>What did you use this information for?</legend>
+    
+                    <div>
+                        <input type="checkbox" name="school" id="school">
+                        <label for="school">School Project?</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="university" id="university">
+                        <label for="university">University Project?</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="work" id="work">
+                        <label for="work">Work Project?</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="general" id="general">
+                        <label for="general">General Interest?</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="other" id="other">
+                        <label for="other">Other</label>
+                    </div>
+    
+                </fieldset>
+    
+                <fieldset id="feedback">
+    
+                    <legend>Give us your feedback</legend>
         
+                    <div>
+    
+                        <label for="feedback">Tell us how we can improve your experience with us?</label>
+                        <br>
+                        <textarea name="feedback" id="feedback" cols="70" rows="10" placeholder="Your Feedback"></textarea>
+            
+                    </div>
+        
+                </fieldset>
+    
+                <div id="button">
+                    <button type="submit" class="button">
+                        <strong>Send Feedback!</strong>
+                    </button>
+                    <input type="reset" value="Reset Form" class="button">
                 </div>
     
-            </fieldset>
+            </form>
+    
+         </section>
 
+         <section class="survey-form">
+            <h3>Sign up to our Newletter!</h3>
+    
+            <form action="https://formdump.codeinstitute.net" method="post" id="news">
+    
+                <label for="name">Name:</label>
+                <input type="text" name="name" id="name" class="news-text" required>
+    
+                <label for="email">Email Address:</label>
+                <input type="email" name="email" id="email" class="news-text" required>
+    
+            </form>
             <div id="button">
                 <button type="submit" class="button">
-                    <strong>Send Feedback!</strong>
+                    <strong>Get Newsletter!</strong>
                 </button>
                 <input type="reset" value="Reset Form" class="button">
             </div>
-
-        </form>
-
-     </section>
-
-     <!---newsletter section-->
-     
-     <section class="survey-form">
-        <h3>Sign up to our Newletter!</h3>
-
-        <form action="https://formdump.codeinstitute.net" method="post">
-
-            <label for="name">Name:</label>
-            <input type="text" name="name" id="name" required>
-
-            <label for="email">Email Address:</label>
-            <input type="email" name="email" id="email" required>
-
-        </form>
-        <div id="button">
-            <button type="submit" class="button">
-                <strong>Get Newsletter!</strong>
-            </button>
-            <input type="reset" value="Reset Form" class="button">
-        </div>
-     </section>
-
-    
+         </section>
+    </div>
 
      <!---footer section-->
 

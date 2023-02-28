@@ -368,14 +368,63 @@ footer {
     color:#e5e5e5;
     background-color:rgba(60, 60, 60, 0.6);
     max-width:600px;
+    border: 2px solid #1c1c1c;
     
     padding:30px;
 }
+
+.survey-form h3 {
+    padding: 20px 0;
+    text-align: center;
+    border: 2px solid #1c1c1c;
+    box-shadow: ;
+}
+
 
 fieldset{
     border: solid rgba(60, 60, 60, 0.6);
 }
 
+
+legend {
+    margin-left: 10px;
+    padding: 20px 0;
+    
+}
+
+#feedback label {
+    margin-left: 10px;
+}
+
+#feedback textarea {
+    width: 90%;
+    margin: 20px 5%; 
+    font-size: 16px;
+    font-family: montserrat, sans-serif;
+}
+
+.button {
+    background-color: #1c1c1c;
+    color: #e5e5e5;
+    margin:0 auto;
+    padding: 10px;
+    border: 2px solid #e5e5e5;
+    border-radius: 10%;
+    box-shadow: 1px 2px 3px #1c1c1c;
+    display: inline-flex;
+    justify-content: center;
+    
+}
+
+.button:hover {
+    background-color: #e5e5e5;
+    color: #1c1c1c;
+    
+
+}
+#button {
+    margin: 0  auto;
+}
 
 
 

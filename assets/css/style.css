@@ -242,11 +242,22 @@ footer {
 }
 
 #more {
-    height: 300px;
-    width: 100%;
-    
-    background-color: #e5e5e5;
-    color: #1c1c1c;
+ 
+    margin: 0 auto;
+    color:#e5e5e5;
+    background-color:rgba(60, 60, 60, 0.85);
+    max-width:600px;
+    border: 2px solid #e5e5e5;
+    padding:30px;
+    bottom: 100px;
+    left: 100px;
+    position: absolute;
+
+}
+
+#more h2 {
+    color: #e5e5e5;
+    padding-bottom: 10px;
 }
 
 #book {
@@ -322,11 +333,13 @@ footer {
 /*Bletchley Park*/
 
 #park {
-    height: 1200px;
+    height: 600px;
     width: 100%;
-
-    background-color: #1c1c1c;
-    color: #e5e5e5;
+    overflow-x: hidden;
+    position: relative;
+    background: url(../images/bletchley-park_600x257.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #park h3 {

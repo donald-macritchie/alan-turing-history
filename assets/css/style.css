@@ -370,22 +370,22 @@ footer {
 .survey-form {
     margin: 60px auto;
     color:#e5e5e5;
-    background-color:rgba(60, 60, 60, 0.6);
+    background-color:rgba(60, 60, 60, 0.8);
     max-width:600px;
-    border: 2px solid #1c1c1c;
-    
+    border: 2px solid #e5e5e5;
     padding:30px;
 }
 
 .survey-form h3 {
     padding: 20px 0;
     text-align: center;
-    border: 2px solid #1c1c1c;
+    border: 2px solid #e5e5e5;
+    color: #e5e5e5;
 }
 
 
 fieldset{
-    border: solid rgba(60, 60, 60, 0.6);
+    border: solid #e5e5e5;
 }
 
 

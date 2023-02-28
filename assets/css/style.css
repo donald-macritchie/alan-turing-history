@@ -406,13 +406,12 @@ legend {
 .button {
     background-color: #1c1c1c;
     color: #e5e5e5;
-    margin:0 auto;
+    margin: 20px 0;
     padding: 10px;
     border: 2px solid #e5e5e5;
     border-radius: 10%;
     box-shadow: 1px 2px 3px #1c1c1c;
-    display: inline-flex;
-    justify-content: center;
+    
     
 }
 
@@ -423,7 +422,7 @@ legend {
 
 }
 #button {
-    margin: 0  auto;
+    margin: 0 10px;
 }
 
 

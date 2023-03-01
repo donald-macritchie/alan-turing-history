@@ -19,7 +19,8 @@ body {
 #header-content {
     background-color: #e5e5e5;
     width: 100%;
-    position: absolute;
+    position: fixed;
+    z-index: 2;
 }
 
 h2, h3, a {
@@ -371,7 +372,7 @@ footer {
 }
 
 .survey-form {
-    margin: 60px auto;
+    margin: 100px auto;
     color:#e5e5e5;
     background-color:rgba(60, 60, 60, 0.8);
     max-width:600px;

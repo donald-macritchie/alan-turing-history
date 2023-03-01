@@ -16,10 +16,10 @@ body {
 
 /* headings and logo */
 
-h1, h2, h3, a {
+h2, h3, a {
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #1c1c1c;
+    color: #e5e5e5;
 
 }
 
@@ -29,6 +29,7 @@ h1, h2, h3, a {
     float: left;
     font-size: 300%;
     padding-left: 30px;
+    color: #1c1c1c;
 }
 
 #menu {
@@ -68,7 +69,7 @@ h1, h2, h3, a {
 
 
 #hero-image {
-    height: 600px;
+    height: 100vh;
     width: 100vw;
     overflow-x: hidden;
     position: relative;
@@ -77,6 +78,49 @@ h1, h2, h3, a {
     background-attachment: fixed;
     
 }
+
+/*cover text */
+
+#cover-text {
+    font-size: 110%;
+    font-family: montserrat, sans-serif;
+    color: #e5e5e5;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 300px;
+    height: 200px;
+
+   padding: 30px 10px;
+
+    background-color: rgba(60, 60, 60, 0.85);
+
+    bottom: 150px;
+    right: 100px;
+
+    position: absolute;
+}
+#cover-text h2, #cover-text h3 {
+    color: #e5e5e5;
+}
+
+#cover-text h3 {
+    padding-top: 10px;
+
+}
+
+
+/* home page main content */
+
+.content-one {
+    margin: 600px 60px 100px 60px;
+    color:#e5e5e5;
+    background-color:rgba(60, 60, 60, 0.85);
+    border: 2px solid #e5e5e5;
+    display: flex;
+}
+
 
 
 

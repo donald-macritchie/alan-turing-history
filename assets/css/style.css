@@ -16,6 +16,12 @@ body {
 
 /* headings and logo */
 
+#header-content {
+    background-color: #e5e5e5;
+    width: 100%;
+    position: absolute;
+}
+
 h2, h3, a {
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -164,7 +170,9 @@ h2, h3, a {
 /* footer section */
 
 footer {
-    height: 150px;
+    height: 300px;
+    width: 100%;
+    background-color: #e5e5e5;
 
 }
 
@@ -218,6 +226,7 @@ footer {
 }
 
 #book {
+    margin-top: 600px;
     height: 550px;
     width: 100%;
     padding-top: 30px;

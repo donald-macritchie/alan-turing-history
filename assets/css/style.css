@@ -78,133 +78,11 @@ h1, h2, h3, a {
     
 }
 
-#cover-text {
-    font-size: 110%;
-    font-family: montserrat, sans-serif;
-    color: #e5e5e5;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    text-align: center;
 
-    width: 300px;
-    height: 200px;
 
-   padding: 30px 10px;
 
-    background-color: rgba(28, 28, 28, 0.8);
 
-    bottom: 100px;
-    right: 100px;
 
-    position: absolute;
-}
-
-#cover-text h2, #cover-text h3 {
-    color: #e5e5e5;
-}
-
-#cover-text h3 {
-    padding-top: 10px;
-
-}
-
-/* text left image right */
-
-.content-one {
-    height: 600px;
-    width: 100%;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    
-    background-color: #1c1c1c;
-    color: #e5e5e5;
-}
-
-.content-one h3 {
-    padding-bottom: 30px;
-    color: #e5e5e5;
-}
-
-.content-text {
-    width: 50%;
-    padding: 0 30px 0 60px;
-}
-
-.content-img {
-    width: 40%;
-    height: auto;
-    padding-right: 60px;
-}
-
-.responsive {
-    width: 100%;
-    height: auto;
-  }
-
-  figcaption {
-    text-align: center;
-    padding-top: 20px;
-  }
-
-  
-/* text right image left */
-
-.content-two {
-    height: 600px;
-    width: 100%;
-
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    align-items: center;
-
-    
-    background-color: #e5e5e5;
-    color: #1c1c1c;
-}
-
-.content-two h3 {
-    padding-bottom: 30px;
-}
-
-.content-two .content-img {
-    padding-left: 60px;
-}
-
-.content-one p, .content-two p {
-    padding-bottom: 10px;
-}
-
-/* early life section */
-
-#early {
-    height: 800px;
-    padding: 60px 0;
-}
-
-/*during the war section */
-
-#during {
-    height: 900px;
-    padding: 60px 0;
-}
-
-/* after the war section */
-
-#after {
-    height: 700px;
-    padding: 60px 0;
-}
-
-/* sexuality and death section */
-
-#death {
-    height: 700px;
-    padding: 60px 0;
-}
 
 /* footer section */
 
@@ -508,6 +386,7 @@ legend {
 
     #early, #during, #after, #death {
         height: max-content;
+        width: 100vw;
     }
 
 
@@ -528,8 +407,8 @@ legend {
     }
 
     .content-one, .content-two {
-       display: inline-block;
-       width: 100%;
+       display: block;
+   
        height: fit-content;
        
        

@@ -159,7 +159,7 @@ h2, h3, a {
  }
 
  #intro {
-    margin: 600px 60px 100px 60px;
+    margin: 700px 60px 100px 60px;
  }
 
  .reverse {
@@ -197,7 +197,7 @@ footer {
 /* more info hero image */
 
 #more-info-hero-image {
-    height: 600px;
+    height: 100vh;
     width: 100%;
     overflow-x: hidden;
     position: relative;
@@ -226,7 +226,7 @@ footer {
 }
 
 #book {
-    margin-top: 600px;
+    margin-top: 700px;
     height: 550px;
     width: 100%;
     padding-top: 30px;

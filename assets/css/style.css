@@ -605,6 +605,8 @@ legend {
 
 @media screen and (max-width:480px) {
 
+    /* header and cover text */
+
     #header-content {
         font-size: 0.8rem;
     }
@@ -616,6 +618,8 @@ legend {
         padding: 30px 10px;
     }
 
+    /* Home Page content */
+
     .content-text {
         font-size: 0.8em;
     }
@@ -623,6 +627,25 @@ legend {
     footer {
         height: 100px;
     }
+
+    /* More info page content */
+
+    #more {
+        position: static;
+        margin-top: 300px;
+
+    }
+
+    #book {
+        margin-top: 100px;
+    }
+
+    .grid h4 {
+        padding: 20px;
+  
+    }
+
+
 }
 
    

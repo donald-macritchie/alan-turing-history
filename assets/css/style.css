@@ -173,9 +173,10 @@ h2, h3, a {
 /* footer section */
 
 footer {
-    height: 300px;
+    height: 250px;
     width: 100%;
     background-color: #e5e5e5;
+
 
 }
 
@@ -467,6 +468,8 @@ legend {
 
 @media screen and (max-width: 1200px) {
 
+    /* header cover text */
+
     #header-content {
         font-size: 0.9rem;
     }
@@ -478,6 +481,8 @@ legend {
         padding: 30px 10px;
     }
 
+    /* home page content */
+
 
     #intro {
         margin: 600px 60px 100px 60px;
@@ -488,6 +493,24 @@ legend {
         font-size: 0.8em;
     }
 
+    /* footer */
+
+    footer {
+        height: 175px;
+    }
+
+    /* more info page */
+
+     #more {
+        font-size: 0.8em;
+        left: 50px;
+        bottom: 50px;
+    
+    }
+
+    #park-info {
+        font-size: 0.8em;
+    }
 
 }
 
@@ -504,7 +527,7 @@ legend {
     }
 
     #cover-text {
-        left: 0;
+        left: 10px;
     }
 
     .content {

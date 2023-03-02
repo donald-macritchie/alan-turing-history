@@ -533,6 +533,28 @@ legend {
     }
 }
 
+@media screen and (max-width:480px) {
+
+    #header-content {
+        font-size: 0.8rem;
+    }
+    #cover-text {
+        font-size: 0.7em;
+        width: 150px;
+        height: 175px;
+
+        padding: 30px 10px;
+    }
+
+    .content-text {
+        font-size: 0.8em;
+    }
+
+    footer {
+        height: 100px;
+    }
+}
+
    
 
 

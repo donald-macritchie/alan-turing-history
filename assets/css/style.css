@@ -399,11 +399,11 @@ legend {
     
 }
 
-#feedback label {
+#experience label {
     margin-left: 10px;
 }
 
-#feedback textarea {
+#experience textarea {
     width: 90%;
     margin: 20px 5%; 
     font-size: 16px;
@@ -435,7 +435,7 @@ legend {
     
 
 }
-#button {
+.send {
     margin: 0 auto;
     display: flex;
     justify-content: center;

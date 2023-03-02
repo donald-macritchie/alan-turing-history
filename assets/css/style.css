@@ -468,7 +468,7 @@ legend {
 
 @media screen and (max-width: 1200px) {
 
-    /* header cover text */
+    /* header and cover text */
 
     #header-content {
         font-size: 0.9rem;
@@ -516,7 +516,7 @@ legend {
 
 @media screen and (max-width:950px) {
 
-    
+    /* header and menu */ 
 
     #menu {
         clear: left;
@@ -529,6 +529,8 @@ legend {
     #cover-text {
         left: 10px;
     }
+
+    /* home page content */
 
     .content {
         display: block;
@@ -554,6 +556,51 @@ legend {
     footer {
         height: 150px;
     }
+
+    /*More info page content */
+
+    #more {
+        width: 50%;
+        text-align: center;
+    }
+
+    #more p {
+        padding-bottom: 10px;
+    }
+
+    .grid  {
+        display: block;
+    }
+
+    .grid h4 {
+        font-size: 0.8em;
+        padding-bottom: 20px;
+    }
+
+    #book, #film {
+        height: auto;
+    }
+
+    #park {
+        height: auto;
+    }
+
+    #park-info {
+        display: block;
+    }
+
+    #park-text {
+        margin: 60px auto;
+        width: 80%;
+    }
+
+    #map {
+        margin: 0 auto 60px;
+        width: 80%;
+    }
+
+
+
 }
 
 @media screen and (max-width:480px) {

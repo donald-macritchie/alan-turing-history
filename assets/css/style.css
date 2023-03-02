@@ -150,6 +150,11 @@ h2, h3, a {
     
  }
 
+ .content-img img {
+    max-width: 100%;
+    height: auto;
+ }
+
 
  figcaption {
     text-align: center;

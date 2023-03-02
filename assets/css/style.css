@@ -150,7 +150,7 @@ h2, h3, a {
     
  }
 
- .content-img img {
+ .responsive-image {
     max-width: 100%;
     height: auto;
  }
@@ -480,13 +480,25 @@ legend {
 
     #early, #during, #after, #death {
         height: max-content;
-        width: 100vw;
+        
+    }
+
+
+    #intro {
+        margin: 600px 60px 100px 60px;
+
+     }
+
+    .content-text {
+        font-size: 0.8em;
     }
 
 
 }
 
 @media screen and (max-width:950px) {
+
+    
 
     #menu {
         clear: left;
@@ -500,20 +512,22 @@ legend {
         left: 0;
     }
 
-    .content-one, .content-two {
+    .content {
        display: block;
-   
-       height: fit-content;
-       
-       
+       padding: 0 30px;
+      
     }
     .content-text {
         width: 100%;
         padding-top: 20px;
         text-align: center;
+        margin: 0 auto;
     }
     .content-img {
-       margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        height: 75%;
+
     }
 }
    

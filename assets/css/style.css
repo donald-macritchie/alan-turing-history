@@ -117,11 +117,13 @@ h2, h3, a {
 
 }
 
-audio {
-    margin-top: 80px;
-    width: 200px;
-    position: absolute;
+#piano {
+    width: 20%;
+    margin: 80px 10px;
+    display: flex;
+    float: right;
 }
+
 
 
 /* home page main content */

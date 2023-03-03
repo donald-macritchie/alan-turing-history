@@ -492,6 +492,7 @@ legend {
         padding: 30px 10px;
     }
 
+
     /* home page content */
 
 
@@ -539,6 +540,12 @@ legend {
 
     #cover-text {
         left: 10px;
+    }
+
+    /*audio*/
+
+    audio {
+        margin-top: 130px;
     }
 
     /* home page content */

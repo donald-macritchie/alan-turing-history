@@ -117,11 +117,14 @@ h2, h3, a {
 
 }
 
-#piano {
-    width: 20%;
-    margin: 80px 10px;
-    display: flex;
+/* Audio */
+
+audio {
+    width: 35%;
+    margin-top: 80px;
+    margin-right: 10px;
     float: right;
+
 }
 
 

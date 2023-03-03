@@ -630,6 +630,13 @@ legend {
 
 }
 
+@media screen and (max-width:750px) {
+    audio {
+        width: 50%;
+    }
+
+}
+
 @media screen and (max-width:480px) {
 
     /* header and cover text */
@@ -643,6 +650,12 @@ legend {
         height: 175px;
 
         padding: 30px 10px;
+    }
+
+    /* audio */
+
+    audio {
+        width: 75%;
     }
 
     /* Home Page content */

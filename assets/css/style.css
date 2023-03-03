@@ -117,6 +117,12 @@ h2, h3, a {
 
 }
 
+audio {
+    margin-top: 80px;
+    width: 200px;
+    position: absolute;
+}
+
 
 /* home page main content */
 
@@ -603,12 +609,14 @@ legend {
 
     .survey-form {
         margin-top: 200px;
+
     }
 
     #newsletter {
         margin-top: 50px;
     }
 
+}
 
 @media screen and (max-width:480px) {
 
@@ -651,6 +659,26 @@ legend {
         padding: 20px;
   
     }
+
+    /* survey page */
+
+    .survey-form {
+        width: 80%;
+        font-size: 0.8em;
+    }
+
+    #newsletter form {
+        display: block;
+        width: 50%;
+    }
+
+    
+
+
+
+
+
+
 
 
 }

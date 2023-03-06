@@ -4,6 +4,10 @@ The Alan Turing website is a landing page created to give an introduction into t
 
 Users of the site will be able to find external links to various resources such as books and films along with social media links, site feedback survey and newsletter signup. The site is targeted to anyone looking for information on Alan Turing, particularly those looking to research for a historical project. 
 
+[View the live project here](https://donald-macritchie.github.io/alan-turing-history/)
+
+![This is a screenshot display the live site on AM I Responsive?](https://donald-macritchie.github.io/alan-turing-history/assets/images/am-i-responsive-screenshot.png)
+
 ## Features
 
 -	Featured at the top of the page the navigation shows the site name in the top left corner : ALAN TURING where it will link to the home page. 

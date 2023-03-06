@@ -112,21 +112,23 @@
          <section class="survey-form" id="newsletter">
             <h3>Sign up to our Newletter!</h3>
     
-            <form action="https://formdump.codeinstitute.net" method="get" id="news">
+            <form action="https://formdump.codeinstitute.net" method="post" id="news">
     
                 <label for="name">Name:</label>
                 <input type="text" name="name" id="name" class="news-text" required>
     
                 <label for="email">Email Address:</label>
                 <input type="email" name="email" id="email" class="news-text" required>
+
+                <div class="send">
+                    <button type="submit" class="button">
+                        <strong>Get Newsletter!</strong>
+                    </button>
+                    <input type="reset" value="Reset Form" class="button">
+                </div>
     
             </form>
-            <div class="send">
-                <button type="submit" class="button">
-                    <strong>Get Newsletter!</strong>
-                </button>
-                <input type="reset" value="Reset Form" class="button">
-            </div>
+            
          </section>
 
               <!---footer section-->

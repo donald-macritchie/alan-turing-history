@@ -108,6 +108,7 @@ h2, h3, a {
 
     position: absolute;
 }
+
 #cover-text h2, #cover-text h3 {
     color: #e5e5e5;
 }
@@ -224,15 +225,25 @@ footer {
 
 #more {
  
-    margin: 0 auto;
-    color:#e5e5e5;
-    background-color:rgba(60, 60, 60, 0.85);
-    max-width:600px;
-    border: 2px solid #e5e5e5;
-    padding:30px;
-    bottom: 100px;
-    left: 100px;
+    font-size: 110%;
+    font-family: montserrat, sans-serif;
+    color: #e5e5e5;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 600px;
+    height: 200px;
+
+   padding: 30px 10px;
+
+    background-color: rgba(60, 60, 60, 0.85);
+
+    top: 400px;
+    right: 50px;
+
     position: absolute;
+
 
 }
 
@@ -516,8 +527,9 @@ legend {
 
      #more {
         font-size: 0.8em;
-        left: 50px;
-        bottom: 50px;
+        height: 100px;
+        padding-bottom: 50px;
+
     
     }
 
@@ -579,8 +591,10 @@ legend {
     /*More info page content */
 
     #more {
+        margin: 0 auto;
         width: 50%;
         text-align: center;
+        height: auto;
     }
 
     #more p {

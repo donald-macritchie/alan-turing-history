@@ -698,10 +698,10 @@ legend {
     }
     #cover-text {
         font-size: 0.7em;
-        width: 150px;
-        height: 175px;
-
-        padding: 30px 10px;
+        width: 90%;
+        height: fit-content;
+        margin-top: 160px;
+        padding: 10px;
     }
 
     /* audio */

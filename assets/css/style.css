@@ -27,10 +27,7 @@ h2, h3, a {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #e5e5e5;
-
 }
-
-
 
 #logo {
     float: left;
@@ -125,7 +122,6 @@ audio {
     margin-top: 80px;
     margin-right: 10px;
     float: right;
-
 }
 
 
@@ -140,8 +136,6 @@ audio {
     background-color:rgba(60, 60, 60, 0.85);
     border: 2px solid #e5e5e5;
     display: flex;
-
- 
 }
 
 .content-text {
@@ -189,8 +183,6 @@ footer {
     height: 250px;
     width: 100%;
     background-color: #e5e5e5;
-
-
 }
 
 .social-networks {
@@ -243,8 +235,6 @@ footer {
     right: 50px;
 
     position: absolute;
-
-
 }
 
 #more h2 {
@@ -258,17 +248,12 @@ footer {
     width: 100%;
     padding-top: 30px;
     text-align: center;
-    
-
-    background-color: #1c1c1c;
-    
+    background-color: #1c1c1c; 
 }
 
 #book a, #book h3 {
     color: #e5e5e5;
 }
-
-
 
 .grid {
     display: grid;
@@ -353,9 +338,7 @@ footer {
     padding: 60px 30px;
     color: #e5e5e5;
     background-color:rgba(60, 60, 60, 0.85);
-    border: 2px solid #e5e5e5;
-    
-    
+    border: 2px solid #e5e5e5;  
 }
 
 #park-text p{
@@ -377,9 +360,12 @@ footer {
 #park-link a:hover {
     background-color: #1c1c1c;
     color: #e5e5e5;
-
 }
 
+iframe {
+    width: 100%;
+    height: 340px; 
+}
 
 #map {
     width: 50%;
@@ -416,18 +402,13 @@ footer {
     color: #e5e5e5;
 }
 
-
-
-
 fieldset{
     border: solid #e5e5e5;
 }
 
-
 legend {
     margin-left: 10px;
-    padding: 20px 0;
-    
+    padding: 20px 0;    
 }
 
 #experience label {
@@ -455,34 +436,26 @@ legend {
     border-radius: 10%;
     box-shadow: 1px 2px 3px #1c1c1c;
     font-size: 16px;
-    font-family: inherit;
-    
-    
+    font-family: inherit;  
 }
 
 .button:hover {
     background-color: #e5e5e5;
     color: #1c1c1c;
-    
-
 }
+
 .send {
     margin: 0 auto;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;   
 }
-
 
 #news {
     width: 100%;
     margin: 30px auto;
-    height: 30px;
-  
+    height: 30px;  
 }
-
-
 
 #newsletter {
     height: fit-content;
@@ -500,13 +473,6 @@ legend {
     justify-content: center;
 }
 
-#name {
-    margin: 20px 0;
-}
-
-
-
-
 
 
 /* media queries */
@@ -522,7 +488,6 @@ legend {
         font-size: 0.9rem;
         width: 150px;
         height: 200px;
-
         padding: 30px 10px;
     }
 
@@ -532,7 +497,6 @@ legend {
 
     #intro {
         margin: 600px 60px 100px 60px;
-
      }
 
     .content-text {
@@ -551,8 +515,6 @@ legend {
         font-size: 0.8em;
         height: 100px;
         padding-bottom: 50px;
-
-    
     }
 
     #park-info {
@@ -678,14 +640,9 @@ legend {
         width: 50%;
     }
 
-
-
-
-
     .survey-form {
         font-size: 0.8em;
     }
-
 
 }
 
@@ -696,6 +653,7 @@ legend {
     #header-content {
         font-size: 0.8rem;
     }
+
     #cover-text {
         font-size: 0.7em;
         width: 90%;
@@ -737,7 +695,6 @@ legend {
 
     .grid h4 {
         padding: 20px;
-  
     }
 
     /* survey page */
@@ -749,16 +706,6 @@ legend {
     .send {
         display: flex;
     }
-
-
-    
-
-
-
-
-
-
-
 
 }
 

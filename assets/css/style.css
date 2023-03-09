@@ -613,10 +613,15 @@ legend {
     /*More info page content */
 
     #more {
-        margin: 0 auto;
-        width: 50%;
-        text-align: center;
-        height: auto;
+        margin: 200px auto 0;
+        width: 80%;
+        position: relative;
+        top: 0;
+        right: 0;
+    }
+
+    #book {
+        margin-top: 180px;
     }
 
     #more p {
@@ -672,9 +677,14 @@ legend {
         width: 50%;
     }
 
+
+
+
+
     .survey-form {
         font-size: 0.8em;
     }
+
 
 }
 

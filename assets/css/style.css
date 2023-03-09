@@ -729,14 +729,13 @@ legend {
     /* survey page */
 
     .survey-form {
-        width: 80%;
         font-size: 0.8em;
     }
 
-    #newsletter form {
-        display: block;
-        width: 50%;
+    .send {
+        display: flex;
     }
+
 
     
 

@@ -713,6 +713,14 @@ legend {
 
     /* Home Page content */
 
+    #intro {
+        margin: 600px 0 50px;
+    }
+
+    .content {
+        margin: 0 0 50px
+    }
+
     .content-text {
         font-size: 0.8em;
     }

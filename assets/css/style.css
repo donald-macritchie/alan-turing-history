@@ -468,13 +468,14 @@ legend {
     margin: 0 auto;
     display: flex;
     justify-content: center;
+    align-items: center;
     
 }
 
 
 #news {
     width: 100%;
-    margin: 30px 20px;
+    margin: 30px auto;
     height: 30px;
   
 }
@@ -482,6 +483,10 @@ legend {
 .news-text {
     height: 25px;
     margin: 0 auto;
+}
+
+#newsletter {
+    padding-bottom: 60px;
 }
 
 

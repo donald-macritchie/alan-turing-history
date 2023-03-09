@@ -707,7 +707,8 @@ legend {
     /* audio */
 
     audio {
-        width: 75%;
+        width: 50%;
+        margin-top: 150px;
     }
 
     /* Home Page content */

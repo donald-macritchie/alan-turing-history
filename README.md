@@ -6,7 +6,7 @@ Users of the site will be able to find external links to various resources such 
 
 [View the live project here](https://donald-macritchie.github.io/alan-turing-history/)
 
-![This is a screenshot display of the live site on AM I Responsive?](../alan-turing-history/assets/screenshots/am-i-responsive-screenshot.png)
+![This is a screenshot display of the live site on AM I Responsive?](./assets/screenshots/am-i-responsive-screenshot.png)
 
 ## Features
 
@@ -64,7 +64,7 @@ Users of the site will be able to find external links to various resources such 
 
 - The film sections follows the same structure as the book section and display three films for the user to explore.
 
-- The film images and text are worjking links to the respective IMDB preofiles on the IMDB site.
+- The film images and text are working links to the respective IMDB profiles on the IMDB site.
 
 ![This is a screenshot of the fim section](./assets/screenshots/film-screenshot.png)
 
@@ -82,7 +82,7 @@ Users of the site will be able to find external links to various resources such 
 
 ![This is a screenshot of the survey on the SURVEY page](./assets/screenshots/survey-screenshot.png)
 
--	At the bottom of the survey page there is a form allowing users to sign up to receive a newsletter. The form collects the users name and email address. This sign up for is valuable as it allows the user to receive further information at a later date. 
+-	At the bottom of the survey page there is a form allowing users to sign up to receive a newsletter. The form collects the users name and email address. This sign up form is valuable as it allows the user to receive further information at a later date. 
 
 ![This is a screenshot of the newletter sign up section](./assets/screenshots/newsletter-screenshot.png)
 
@@ -92,7 +92,7 @@ Users of the site will be able to find external links to various resources such 
 ### Validator Testing
 
 - HTML
-  - No Errors were returned when passing through the offcial [W3C validator](https://validator.w3.org/)
+  - No Errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
 
 - CSS
   - No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
@@ -117,7 +117,8 @@ Users of the site will be able to find external links to various resources such 
 
 ### Bugs
 
- -	Whilst testing the site on AM I RESPONSIVE, I discovered the “more” div didn’t act as expected as the div did not stay in the desired position.
+ -	Whilst testing the site on [AM I RESPONSIVE](https://ui.dev/amiresponsive), I discovered the “more” div didn’t act as expected as the div did not stay in the desired position.
+ This was fixed in the CSS. 
 
 ### Unfixed Bugs
 
@@ -204,4 +205,4 @@ Artist – Emmit Fenn.
 
 ### README.md
 
-- This README.md File was created using the Code Institute Love Running README.md template and using tips from the "Creating a README" file created by [Kera Cudmore](https://github.com/kera-cudmore)
+- This README.md File was created using the [Code Institute Love Running README.md template](https://ui.dev/amiresponsive) and using tips from the "Creating a README" file created by [Kera Cudmore](https://github.com/kera-cudmore)

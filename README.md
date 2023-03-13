@@ -87,7 +87,6 @@ Users of the site will be able to find external links to various resources such 
 ![This is a screenshot of the newletter sign up section](./assets/screenshots/newsletter-screenshot.png)
 
 
-
 ## Testing
 
 ### Validator Testing
@@ -103,10 +102,34 @@ Users of the site will be able to find external links to various resources such 
 - Accessability
   - I confirmed that the colors and fonts used are easy to read and accessable by running the site through lighthouse in devtools
 
-  ![This is a screeshot of the lighthouse analysis in devtools]()
+  - Home page
+
+  ![This is a screeshot of the Home Page lighthouse analysis in devtools](./assets/screenshots/lighthouse-home.png)
+
+  - More-Info page
+
+  ![This is a screeshot of the More-Info Page lighthouse analysis in devtools](./assets/screenshots/lighthouse-more-info.png)
+
+  - Survey page
+
+  ![This is a screeshot of the Survey Page lighthouse analysis in devtools](./assets/screenshots/lighthouse-survey.png)
+
+### Unfixed Bugs
+
+- No unfixed bugs
 
 
 ## Deployment
+
+- The site was deployed using GitHub pages. The steps taken are as follows:
+
+  - In the GitHub repository, navigate to the Settings tab
+  - From here, scroll down to and select the Pages sub menu
+  - In the source section use the drop down menu and select "main" and click save
+  -Once this has been saved, GitHub pages produces a link to follow to the live site. 
+
+- [View the live project here](https://donald-macritchie.github.io/alan-turing-history/)
+
 
 ## Credits
 

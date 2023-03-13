@@ -6,7 +6,7 @@ Users of the site will be able to find external links to various resources such 
 
 [View the live project here](https://donald-macritchie.github.io/alan-turing-history/)
 
-![This is a screenshot display the live site on AM I Responsive?](../alan-turing-history/assets/screenshots/am-i-responsive-screenshot.png)
+![This is a screenshot display of the live site on AM I Responsive?](../alan-turing-history/assets/screenshots/am-i-responsive-screenshot.png)
 
 ## Features
 
@@ -17,6 +17,8 @@ Users of the site will be able to find external links to various resources such 
 -	The navigation clearly leads the user to around the website allowing ease of use and understanding. 
 -	The site as a whole has a black and white aesthetic  to tie in with the point in history these events took place i.e. not modern day. 
 
+![This is a screen shot of the header of the site displaying the navigation links for the site.](./assets/screenshots/header-screenshot.png)
+
 ### Hero Image and Cover Text
 
 -	The hero image displayed is a movie poster from the biopic film “The Imitation Game”, where the character of Alan Turing is standing in front of the bombe machine. 
@@ -25,21 +27,84 @@ Users of the site will be able to find external links to various resources such 
 
 -	There is also an audio file of light piano music at top right of the hero image of the home page that can be played whilst viewing. This piano track was selected to help set the mood for the user and provoke an emotional response. 
 
+![This is a screen shot of the hero image a nd te covertext of the home page](./assets/screenshots/hero-image-and-cover-text.png)
+
+### Home Page
+
+- The home page gives details of the life and work of Alan Turing starting with a brief introduction of who Alan Turing was and why he is such an influential figure in the world of computer programming and the positive impact his work had during World War II.
+
+![This is a screenshot of the introduction of the home page](./assets/screenshots/introduction-screenshot.png)
+
+- Continuing on down the home page the user will find more content on different stages of Alan Turing's life such as his Early Life and Education, his work and impact During World War II through to the events surrounding his death.
+
+- The layout of these sections have been kept the same throughout the home page, allowing the user to intuitively understand the structure. 
+
+![This is a screen shot of the Early lifer and education section on the home page](./assets/screenshots/life-during-the-war-screenshot.png)
+
+### Footer
+
+-The footer includes relevant social media links for Alan Turing. The links will open on a new tab when clicked to allow for easy naviagtion for the user.
+
+-The footer is valuable to the user as it encourages them to keep up-to-date with various news and publications on the topic.  
+
+![This is a screenshot of the footer section](./assets/screenshots/footer-screenshot.png)
+
 ### More-Info page
 
 -	The More-info page was designed to give the user further resources to research and investigate if they so desired. 
--	Books were chosen due to their purchase reviews on Amazon and the links will lead the user to these books on amazon. 
--	Films and documentaries were chosen as resources due to their popularity when searched for online.  
+
+- The hero image used is a close up image of a Bombe Machine. This is intentionally different to the home page to give a visual que to the user that they have navigated away from the home page.
+
+![This is a screenshot of the MORE-INFO hero image and covertext](./assets/screenshots/more-info-hero-image-screenshot.png)
+
+-	Three books were chosen to display further resource for users to explore if they wish. 
+- The book images and texts are working links that will lead to Amazon for the user to purchase. 
+
+![This is a screenshot of the Books section](./assets/screenshots/books-screenshot.png)
+
+- The film sections follows the same structure as the book section and display three films for the user to explore.
+
+- The film images and text are worjking links to the respective IMDB preofiles on the IMDB site.
+
+![This is a screenshot of the fim section](./assets/screenshots/film-screenshot.png)
+
 -	The Bletchley park section gives a small piece of information on why this site was relevant to Alan Turing along with a link to the Bletchley park website and a google map showing its existing location.
+
+![This is a screenshot of the Bletley park section.](./assets/screenshots/bletchley-screenshot.png)
 
 ### Survey Page
 
+- The background image used on the survey page is a close up image of an Enigma machine. This is again to give the user a visual que that they have navigated to a different page. 
+
 -	The survey page has a form to collect details regarding the users experience on the page. There are two multiple choice questions as well as a feedback section allowing users to input and send back their thoughts and experience using the site. 
+
+
+
+![This is a screenshot of the survey on the SURVEY page](./assets/screenshots/survey-screenshot.png)
+
 -	At the bottom of the survey page there is a form allowing users to sign up to receive a newsletter. The form collects the users name and email address. This sign up for is valuable as it allows the user to receive further information at a later date. 
+
+![This is a screenshot of the newletter sign up section](./assets/screenshots/newsletter-screenshot.png)
 
 
 
 ## Testing
+
+### Validator Testing
+
+- HTML
+  - No Errors were returned when passing through the offcial [W3C validator](https://validator.w3.org/)
+
+- CSS
+  - No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+
+
+
+- Accessability
+  - I confirmed that the colors and fonts used are easy to read and accessable by running the site through lighthouse in devtools
+
+  ![This is a screeshot of the lighthouse analysis in devtools]()
+
 
 ## Deployment
 

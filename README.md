@@ -6,7 +6,7 @@ Users of the site will be able to find external links to various resources such 
 
 [View the live project here](https://donald-macritchie.github.io/alan-turing-history/)
 
-![This is a screenshot display the live site on AM I Responsive?](../alan-turing-history/assets/images/am-i-responsive-screenshot.png)
+![This is a screenshot display the live site on AM I Responsive?](../alan-turing-history/assets/screenshots/am-i-responsive-screenshot.png)
 
 ## Features
 

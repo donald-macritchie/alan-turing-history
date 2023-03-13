@@ -1,6 +1,6 @@
 # Alan Turing
 
-The Alan Turing website is a landing page created to give an introduction into the life and work of Alan Turing. The site offers small historical overviews of Alan Turing’s life giving the user a timeline of information that lead to Alan Turing being regarded as one of the forefathers of computer programming.  
+The Alan Turing website has benn created to give an introduction into the life and work of Alan Turing. The site offers small historical overviews of Alan Turing’s life giving the user a timeline of information that lead to Alan Turing being regarded as one of the forefathers of computer programming.  
 
 Users of the site will be able to find external links to various resources such as books and films along with social media links, site feedback survey and newsletter signup. The site is targeted to anyone looking for information on Alan Turing, particularly those looking to research for a historical project. 
 
@@ -114,6 +114,11 @@ Users of the site will be able to find external links to various resources such 
 
   ![This is a screeshot of the Survey Page lighthouse analysis in devtools](./assets/screenshots/lighthouse-survey.png)
 
+
+### Bugs
+
+ -	Whilst testing the site on AM I RESPONSIVE, I discovered the “more” div didn’t act as expected as the div did not stay in the desired position.
+
 ### Unfixed Bugs
 
 - No unfixed bugs
@@ -133,12 +138,9 @@ Users of the site will be able to find external links to various resources such 
 
 ## Credits
 
-
-### Content
-
-
 ### Code
 -	The code to make the header, covertext and social media links were taken from the CI Love Running project.
+- Grid styling was taken from [Net Ninja youtube channel](https://www.youtube.com/@NetNinja)
 
 ### Information
 The Historical information was taken from numerous online resources. The links can be found below:
@@ -162,37 +164,36 @@ Artist – Emmit Fenn.
 
 ### Images
 
-Home hero image
-https://www.pxfuel.com/en/desktop-wallpaper-xihnq
+ - [Home hero image](https://www.pxfuel.com/en/desktop-wallpaper-xihnq)
 
-Home1
-https://www.gchq.gov.uk/images/alan_turing.jpg
+ - [Home1](https://www.gchq.gov.uk/images/alan_turing.jpg)
 
-Home2
-https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg
+ - [Home2](https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg)
 
-Home3
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Wartime_picture_of_a_Bletchley_Park_Bombe.jpg/330px-Wartime_picture_of_a_Bletchley_Park_Bombe.jpg
+ - [Home3](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Wartime_picture_of_a_Bletchley_Park_Bombe.jpg/330px-Wartime_picture_of_a_Bletchley_Park_Bombe.jpg)
 
-Home4
+ - [Home5](https://d2joqs9jfh6k92.cloudfront.net/wp-content/uploads/2018/01/15175155/Alan-Turing-Memorial-Manchester-England.jpg)
 
-Home5
-https://d2joqs9jfh6k92.cloudfront.net/wp-content/uploads/2018/01/15175155/Alan-Turing-Memorial-Manchester-England.jpg
+ - [More Info hero image](https://bletchleypark.org.uk/wp-content/uploads/2022/01/6FactsBombe_945x805-805x805.jpg)
 
-More Info hero image
-https://bletchleypark.org.uk/wp-content/uploads/2022/01/6FactsBombe_945x805-805x805.jpg
+ - Books
+   - Book cover images were taken directly from Amazon.com respective product pages.
+   - [Alan Turing Decoded](https://www.amazon.co.uk/Alan-Turing-Decoded-They-Called/dp/0750998679/ref=sr_1_1_sspa?crid=2TKQFDJLV7MOL&keywords=alan+turing&qid=1677240133&s=books&sprefix=alan+turing%2Cstripbooks%2C86&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+   - [Alan Turing (A Life Story)](https://www.amazon.co.uk/Alan-Turing-Story-Joanna-Nadin/dp/1407193198/ref=sr_1_6?crid=2TKQFDJLV7MOL&keywords=alan+turing&qid=1677240133&s=books&sprefix=alan+turing%2Cstripbooks%2C86&sr=1-6)
+   - [Alan Turing: Remarkable Lives](https://www.amazon.co.uk/Alan-Turing-Dermot/dp/1841658774/ref=sr_1_9?crid=2TKQFDJLV7MOL&keywords=alan+turing&qid=1677240133&s=books&sprefix=alan+turing%2Cstripbooks%2C86&sr=1-9)
 
-Books
+<br>
 
-Book cover images were taken directly from Amazon.com respective product pages.
+- Films and Documentaries
 
-Films and Documentaries
+  - Film and documentary images were taken from the respective IMDB profile pages. 
+  - [The Imitation Game](https://www.imdb.com/title/tt2084970/?ref_=ttls_li_tt)
+  - [Codebreaker](https://www.imdb.com/title/tt2119396/?ref_=ttls_li_tt)
+  - [Code-breakers: Bletchley Park's lost heroes](https://www.imdb.com/title/tt2491866/?ref_=ttls_li_tt)
 
-Film and documentary images were taken from the respective IMDB profile pages. 
+<br>
 
-Bletchley Park - background image
-https://www.gchq.gov.uk/section/history/bletchley-park-and-wwii
+ - [Bletchley Park - background image](https://www.gchq.gov.uk/section/history/bletchley-park-and-wwii)
 
 
-Survey hero image
-https://media.kasperskydaily.com/wp-content/uploads/sites/86/2015/05/05195343/Enigma.png
+ - [Survey hero image](https://media.kasperskydaily.com/wp-content/uploads/sites/86/2015/05/05195343/Enigma.png)

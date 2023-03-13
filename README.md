@@ -1,6 +1,6 @@
 # Alan Turing
 
-The Alan Turing website has benn created to give an introduction into the life and work of Alan Turing. The site offers small historical overviews of Alan Turing’s life giving the user a timeline of information that lead to Alan Turing being regarded as one of the forefathers of computer programming.  
+The Alan Turing website has been created to give an introduction into the life and work of Alan Turing. The site offers small historical overviews of Alan Turing’s life giving the user a timeline of information that lead to Alan Turing being regarded as one of the forefathers of computer programming.  
 
 Users of the site will be able to find external links to various resources such as books and films along with social media links, site feedback survey and newsletter signup. The site is targeted to anyone looking for information on Alan Turing, particularly those looking to research for a historical project. 
 

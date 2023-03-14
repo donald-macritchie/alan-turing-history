@@ -252,6 +252,7 @@ footer {
     color: #e5e5e5;
 }
 
+/*Code for the book and film sections using the grid layout were styled using online tutorial from NetNinja YouTube channel. See README.md for link*/
 .grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);

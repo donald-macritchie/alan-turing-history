@@ -118,6 +118,11 @@ Users of the site will be able to find external links to various resources such 
 
   ![This is a screeshot of the Survey Page lighthouse analysis in devtools](./assets/screenshots/lighthouse-survey.png)
 
+- I tested that the pages work in different browsers, Chrome, Firefox and Safari.
+
+- I confirmed trhat the project is responsive, looks good and functions on all standard screen sizes using devtools.
+
+- Iconfirmed that the forms work, requires entries in required fields, will only accept email addresses in the email field and the submit and reset buttons work.
 
 ### Bugs
 
@@ -144,8 +149,8 @@ Users of the site will be able to find external links to various resources such 
 ## Credits
 
 ### Code
--	The code to make the header, covertext and social media links were taken from the CI Love Running project.
-- Grid styling was taken from [Net Ninja youtube channel](https://www.youtube.com/@NetNinja)
+-	The code to make the header, covertext and social media links were taken from the [CI Love Running project](https://github.com/donald-macritchie/love-running)
+- Grid styling was taken from [Net Ninja youtube channel](https://www.youtube.com/watch?v=cLNkfWphGMk&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4&index=6)
 
 ### Information
 The Historical information was taken from numerous online resources. The links can be found below:

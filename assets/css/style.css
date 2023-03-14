@@ -263,6 +263,12 @@ footer {
     padding-top: 10px;
 }
 
+#book h4:hover {
+    background-color: #e5e5e5;
+    color: #1c1c1c;
+    padding: 10px;
+}
+
 #book-one {
     grid-column: 2/5;
     
@@ -288,6 +294,12 @@ footer {
 
 #film h3 , a {
     color: #1c1c1c;
+}
+
+#film h4:hover {
+    background-color: #1c1c1c;
+    color: #e5e5e5;
+    padding: 10px;
 }
 
 #film-one {

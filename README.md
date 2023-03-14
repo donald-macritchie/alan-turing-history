@@ -1,6 +1,6 @@
 # Alan Turing
 
-The Alan Turing website has been created to give an introduction into the life and work of Alan Turing. The site offers small historical overviews of Alan Turing’s life giving the user a timeline of information that lead to Alan Turing being regarded as one of the forefathers of computer programming.  
+The Alan Turing website has been created to give an introduction into the life and work of Alan Turing. The site offers small historical overviews of Alan Turing’s life giving the user a timeline of information that lead to Alan Turing being regarded as one of the most influential figures of World War II.
 
 Users of the site will be able to find external links to various resources such as books and films along with social media links, site feedback survey and newsletter signup. The site is targeted to anyone looking for information on Alan Turing, particularly those looking to research for a historical project. 
 
@@ -11,7 +11,7 @@ Users of the site will be able to find external links to various resources such 
 ## User Experience (UX)
 
 - As a user, I want to be able to gain an understanding of who Aan Turing was?
-- As a user, I want to be able to gain an understanding of what role Alan Turing played during the Events of World War II
+- As a user, I want to be able to gain an understanding of what role Alan Turing played during the Events of World War II.
 - As a user, I want to be able to have a firm idea of who Alan Turing was with the potential to find out more information on the topic with further resources.
 - As a user, I want to be able to stay up to date with the latest information surrounding the topic. 
 

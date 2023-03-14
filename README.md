@@ -220,4 +220,4 @@ Artist – Emmit Fenn.
 
 ### README.md
 
-- This README.md File was created using the [Code Institute Love Running README.md template](https://ui.dev/amiresponsive) and using tips from the "Creating a README" file created by [Kera Cudmore](https://github.com/kera-cudmore)
+- This README.md File was created using the [Code Institute Love Running README.md template](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md) and using tips from the "Creating a README" file created by [Kera Cudmore](https://github.com/kera-cudmore)

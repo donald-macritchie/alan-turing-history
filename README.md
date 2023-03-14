@@ -8,6 +8,13 @@ Users of the site will be able to find external links to various resources such 
 
 ![This is a screenshot display of the live site on AM I Responsive?](./assets/screenshots/am-i-responsive-screenshot.png)
 
+## User Experience (UX)
+
+- As a user, I want to be able to gain an understanding of who Aan Turing was?
+- As a user, I want to be able to gain an understanding of what role Alan Turing played during the Events of World War II
+- As a user, I want to be able to have a firm idea of who Alan Turing was with the potential to find out more information on the topic with further resources.
+- As a user, I want to be able to stay up to date with the latest information surrounding the topic. 
+
 ## Features
 
 ### Navigation

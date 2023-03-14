@@ -166,7 +166,6 @@ The Historical information was taken from numerous online resources. The links c
 - https://www.britannica.com/biography/Alan-Turing
 - https://bletchleypark.org.uk/
 - https://www.britannica.com/place/Bletchley-Park
-- https://www.nytimes.com/2019/06/05/obituaries/alan-turing-overlooked.html
 - https://en.wikipedia.org/wiki/Alan_Turing
 
 

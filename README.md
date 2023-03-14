@@ -88,7 +88,7 @@ Users of the site will be able to find external links to various resources such 
 
 ## Features Left to Implement
 
-- Ideas to add to implement later is to make navigation up and down the home page smoother. This could entail having each section having navigation links at the top of the page to take the user to each individual section and in turn have a link to take them bcak to the top. 
+- Ideas to add to implement later is to make navigation up and down the home page smoother. This could entail having each section having navigation links at the top of the page to take the user to each individual section and in turn have a link to take them back to the top. 
 
 
 ## Testing

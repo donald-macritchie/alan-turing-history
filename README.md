@@ -162,12 +162,12 @@ Users of the site will be able to find external links to various resources such 
 ### Information
 The Historical information was taken from numerous online resources. The links can be found below:
 
-https://www.biography.com/scientists/alan-turing
-https://www.britannica.com/biography/Alan-Turing
-https://bletchleypark.org.uk/
-https://www.britannica.com/place/Bletchley-Park
-https://www.nytimes.com/2019/06/05/obituaries/alan-turing-overlooked.html
-https://en.wikipedia.org/wiki/Alan_Turing
+- https://www.biography.com/scientists/alan-turing
+- https://www.britannica.com/biography/Alan-Turing
+- https://bletchleypark.org.uk/
+- https://www.britannica.com/place/Bletchley-Park
+- https://www.nytimes.com/2019/06/05/obituaries/alan-turing-overlooked.html
+- https://en.wikipedia.org/wiki/Alan_Turing
 
 
 ### Media
